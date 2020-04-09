@@ -1,0 +1,6 @@
+{
+  "url": {
+    "giphy": "https://api.giphy.com/v1/gifs/",
+    "wordnik": "http://api.wordnik.com/v4"
+  }
+}
